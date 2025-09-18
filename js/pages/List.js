@@ -96,7 +96,7 @@ export default {
                         The level has to be under 30 seconds when played. Using speed portals to make the game show the time as under 30 seconds is not allowed.
                     </p>
                     <p>
-                        For a level to place, it must be harder than the level placed at #75.
+                        For a level to place, it must be harder than the level placed at #50.
                     </p>
                     <p>
                         No minigames. The level should play like Geometry Dash.
