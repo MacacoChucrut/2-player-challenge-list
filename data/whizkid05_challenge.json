@@ -1,0 +1,41 @@
+{
+    "id": 112274054,
+    "name": "whizkid05 challenge",
+    "creators": ["Pukklez"],
+    "verifier": "Pukklez",
+    "verification": "https://youtu.be/r3G36tsYqXA",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "GuitGuit",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Aurorae",
+            "link": "https://youtu.be/KlTwk66PuuE",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Danieljgd",
+            "link": "https://youtu.be/shc5kJSDWbM",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/i2KbQ-77eWM",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ptyw",
+            "link": "https://youtu.be/_vq9mKioA7s",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Spider", "Learny", "Fast-Paced"]
+}
