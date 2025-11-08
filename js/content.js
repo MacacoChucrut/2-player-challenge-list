@@ -180,10 +180,10 @@ export async function fetchPacks() {
                 : 999;
 
             let multiplier = 1.0;
-            if (avgRank <= 25) multiplier = 0.7;
-            else if (avgRank <= 50) multiplier = 0.65;
-            else if (avgRank <= 100) multiplier = 0.6;
-            else if (avgRank <= 150) multiplier = 0.55;
+            if (avgRank <= 10) multiplier = 0.7;
+            else if (avgRank <= 25) multiplier = 0.65;
+            else if (avgRank <= 40) multiplier = 0.6;
+            else if (avgRank <= 65) multiplier = 0.55;
             else multiplier = 0.5;
 
             if (invalid) {
