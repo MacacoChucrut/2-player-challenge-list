@@ -1,0 +1,17 @@
+{
+    "id": 122728994,
+    "name": "caprese salad",
+    "creators": ["Antiprime"],
+    "verifier": "Aurorae",
+    "verification": "https://youtu.be/luNYp_IMqQI",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Neuron",
+            "link": "https://youtu.be/mGXmtPkdKjg",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "Gimmicky", "Fast-Paced", "High CPS"]
+}
