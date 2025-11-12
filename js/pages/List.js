@@ -167,20 +167,22 @@ export default {
                     </template>
 
                     <h3>Level Rules</h3>
-                    <p>The level has to be under 30 seconds.</p>
-                    <p>For a level to place, it must be harder than #75.</p>
-                    <p>Random Trigger cannot affect gameplay or difficulty.</p>
-                    <p>Copying from outside the GDPS is NOT allowed.</p>
-                    <p>15 CPS max.</p>
-
+                    <p>The level has to be under 30 seconds when played. Using speed portals to make the game show the time as under 30 seconds is not allowed.</p>
+                    <p>For a level to place, it must be harder than the level placed at #50.</p>
+                    <p>No minigames. The level should play like Geometry Dash.</p>
+                    <p>Anything using the random trigger must not notably affect the gameplay or visual difficulty.</p>
+                    <p>If the challenge copies parts from a full level, it must be sufficiently different from the original. If the original level was already a 2 Player level, this rule will be enforced more strictly.</p>
+                    
                     <h3>Submission Requirements</h3>
-                    <p>Video proof required for Top 30.</p>
-                    <p>Upload as YouTube video.</p>
-                    <p>Cheat indicator required if mods used.</p>
-                    <p>Show previous attempt unless first try.</p>
-                    <p>No major shortcuts.</p>
-                    <p>Show completion screen.</p>
-                    <p>CBF & FPS/TPS bypass allowed; physics bypass NOT allowed.</p>
+                    <p>All records must be achieved solo.</p>
+                    <p>Do not bind one key to both inputs (meaning you can't have one key that jumps with player 1 and player 2).</p>
+                    <p>Do not use more than 4 keys bound to inputs in a completion. For example, you can have two keys bound to player 1 and two keys bound to player 2.</p>
+                    <p>Do not use major secret routes or bug routes. If you are unsure if a skip is invalid, contact an admin.</p>
+                    <p>Achieved the record on the level that is listed on the site. Please check the level ID before you submit a record.</p>
+                    <p>Have clicks/taps in the video. Handcam will only be needed for levels that have the requirement for it.</p>
+                    <p>The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.</p>
+                    <p>The recording must show the level complete screen, or the completion will be invalidated.</p>
+                    <p>Once a level falls onto the Legacy List (#51 and below), we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level.</p>
                 </div>
             </div>
 
