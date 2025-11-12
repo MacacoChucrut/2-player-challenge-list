@@ -175,7 +175,7 @@ export default {
                     
                     <h3>Submission Requirements</h3>
                     <p>All records must be achieved solo.</p>
-                    <p>You can't have one key that jumps with player 1 and player 2.</p>
+                    <p>You can't have one key that jumps with player 1 and player 2 simultaneously.</p>
                     <p>Do not use more than 4 keys bound to inputs in a completion. For example, you can have two keys bound to player 1 and two keys bound to player 2.</p>
                     <p>Do not use major secret routes or bug routes. If you are unsure if a skip is invalid, contact an admin.</p>
                     <p>Achieved the record on the level that is listed on the site. Please check the level ID before you submit a record.</p>
